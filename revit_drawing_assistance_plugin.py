@@ -13,15 +13,15 @@
 #          - retrieve all revit family types for dimentions from the project and present them in a drop down menu -> use selected family to place dimentions
 #          - checks for the door reference line and the closest nearby wall that is rotated in the opposite direction than the door and then place the dimension from face of that wall to the door reference line
 #          - create an offset parameter that would determine the offset of dimension to the door
-#      d) 
+#      d) room tags
 #
+#      e) floor finishes tags
 #
+#      f) wall types tags
 #
+#      g) ceiling tags 
 #
-#
-#
-#
-#
+#    2. Elevations/Sections
 #
 #
 #
